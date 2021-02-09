@@ -3,7 +3,7 @@
 
 ## LICENSE
 This is released under the MIT license. See [LICENSE]() for details.
-  
+메인 수정가능한가?   
 ## 기간     
 2020/01/25 ~ 1달/2달 또는 SSAFY를 탈출할 때 까지       
    
